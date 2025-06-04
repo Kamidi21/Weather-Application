@@ -12,7 +12,7 @@ Displays:
 
 ⛅ Dynamic weather icon based on conditions
 
-Responsive and minimal UI design
+Responsive and minimal UI design<br>
 🛠️ Technologies Used
 HTML5
 
