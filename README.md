@@ -1,24 +1,29 @@
 # Weather-Application
-A simple weather application built using HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeatherMap API.
-🚀 Features
-Search for any city’s current weather
-Displays:
+A simple and responsive weather app built with HTML, CSS, and JavaScript. It fetches real-time weather data from the OpenWeatherMap API and displays the current weather conditions of any city entered.
+<hr>
+🚀 Features<br>
+🔍 Search for any city's current weather
 
-🌡️ Temperature
+🌡️ Displays temperature
 
-🌬️ Wind Speed
+💧 Shows humidity level
 
-💧 Humidity
+🌬️ Displays wind speed
 
-⛅ Dynamic weather icon based on conditions
+⛅ Dynamic weather icons based on live conditions
 
-Responsive and minimal UI design<br>
-🛠️ Technologies Used
+📱 Responsive and clean UI
+<hr>
+🛠️ Technologies Used<br>
 HTML5
 
 CSS3
 
-Vanilla JavaScript (ES6)
+JavaScript 
 
 OpenWeatherMap API
+<hr>
+
+👉 [Check it out here](https://weather-application-sigma-ruby.vercel.app/)
+
 
